@@ -1,0 +1,1 @@
+c:\users\jrkre\Desktop\code\desktop apps\LibraryApp\LibraryApp\LibraryApp.csproj;x86
